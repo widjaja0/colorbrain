@@ -1,1 +1,1 @@
-pyinstaller --onefile -w colorama.py
+pyinstaller --onefile -w colorbrain.py
