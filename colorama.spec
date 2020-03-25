@@ -4,7 +4,7 @@ block_cipher = None
 
 
 a = Analysis(['colorama.py'],
-             pathex=['C:\\Users\\WiWa\\Desktop\\colorama-master'],
+             pathex=['C:\\Users\\WiWa\\Desktop\\colorama'],
              binaries=[],
              datas=[],
              hiddenimports=[],
