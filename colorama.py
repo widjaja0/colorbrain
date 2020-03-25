@@ -10,7 +10,7 @@ window.geometry("500x500+650+300")
 window.minsize(500,500)
 window.resizable(1,1)
 window.configure(bg='black')
-window.iconbitmap('C:/Users/WiWa/Desktop/colorama-master/colorwheel.ico')
+window.iconbitmap('C:/Users/WiWa/Desktop/colorama/colorwheel.ico')
 
 currentColor = 0
 playingGame = False
